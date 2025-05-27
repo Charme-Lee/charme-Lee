@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Charme, an aspiring Software Developer currently studying at Codespace academy. I am from JHB South Africa and a full time Analyst.<br><br>- 🔭 I’m working as on Final portfolio piece <br>- 📚 I'm currently learning  JavaScript <br>- ⚡ In my free time I  enjoy painting</p>
+<p align="left">I'm Charme, an aspiring Software Developer currently studying at Codespace academy. I am from JHB South Africa and a full time Analyst.<br><br>- 🔭 Currently working on Javascript projects <br>- 📚 I'm currently learning  JavaScript <br>- ⚡ In my free time I  enjoy painting</p>
 
 ###
 
